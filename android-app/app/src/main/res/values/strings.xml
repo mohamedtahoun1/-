@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="accessibility_service_description">
+        بتسمح بتنفيذ لمسات وسحب على الشاشة بناءً على أوامر من جهاز التحكم المتصل. لازم تفعّلها يدويًا وتقدر توقفها في أي وقت من الإعدادات.
+    </string>
+</resources>
