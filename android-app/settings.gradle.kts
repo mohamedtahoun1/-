@@ -6,7 +6,7 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REUSE)
+    repositoriesMode.set(RepositoriesMode.PRESERVE_SHARED_REPOSITORIES)
     repositories {
         google()
         mavenCentral()
